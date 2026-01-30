@@ -9,7 +9,7 @@ concept in C programming, especially loops and matrix operations.
 
 ---
 
-## 📚 Lessons Available
+## Lessons Available
 
 ### Lesson 1: Sum of an Array using a `for` Loop
 **File:** `1-calculates-the-sum-of-an-array-using-a-for-loop.c`
@@ -44,7 +44,7 @@ concept in C programming, especially loops and matrix operations.
 
 ---
 
-## 🎯 Learning Goals
+## Learning Goals
 
 - Understand how loops work in C (`for`, `while`, `do-while`)
 - Learn how nested loops are used for matrix operations
@@ -54,7 +54,7 @@ concept in C programming, especially loops and matrix operations.
 
 ---
 
-## 🧩 How to Use This Repository
+## How to Use This Repository
 
 1. Clone the repository:
    ```bash
